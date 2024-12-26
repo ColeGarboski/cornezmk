@@ -21,6 +21,15 @@
         };
     };
 
+    combos {
+        compatible = "zmk,combos";
+
+        macroLayer {
+            bindings = <&mo 4>;
+            key-positions = <37 40>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
