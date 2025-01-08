@@ -60,7 +60,7 @@
             bindings = <
 &trans  &kp TAB    &kp Q  &kp W   &kp E   &kp R        &kp T    &kp Y   &kp U   &kp I      &kp O  &trans
 &trans  &kp LSHFT  &kp A  &kp S   &kp D   &kp F        &kp G    &kp H   &kp J   &kp K      &kp L  &trans
-&trans  &kp LCTRL  &kp Z  &kp X   &kp C   &kp V        &kp B    &kp N   &kp M   &kp GRAVE  &kp P  &tog 0
+&trans  &kp LCTRL  &kp Z  &kp X   &kp C   &kp V        &kp B    &kp N   &kp M   &kp GRAVE  &kp P  &trans
                           &trans  &trans  &kp SPACE    &kp RET  &trans  &trans
             >;
         };
